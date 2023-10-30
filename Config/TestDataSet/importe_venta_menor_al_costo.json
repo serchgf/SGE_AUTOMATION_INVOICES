@@ -1,0 +1,23 @@
+{
+  "prod_CA_2159": {
+    "sucursal": "12",
+    "codigo": "CA_2159",
+    "almacen": "01",
+    "linea": "31",
+    "ultimo_costo": "1"
+  },
+  "codigo_AMP-24-675": {
+    "sucursal": "12",
+    "codigo": "AMP-24-675",
+    "linea": "4x",
+    "almacen": "01",
+    "ultimo_costo": "1"
+  },
+  "codigo_CA-2159": {
+    "sucursal": "12",
+    "codigo": "CA-2159",
+    "linea": "90",
+    "almacen": "01",
+    "ultimo_costo": "1"
+  }
+}

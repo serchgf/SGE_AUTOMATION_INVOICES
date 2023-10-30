@@ -1,0 +1,88 @@
+{
+  "allure": {
+    "logo": "C:\\Users\\m1sgarciaf\\PycharmProjects\\SGE_AUTOMATION_INVOICES\\image_files\\logo_oreilly.png",
+    "title": "Reporte personalizado de Pruebas"},
+  "widgets": [
+    {
+      "name": "Summary",
+      "widget": "summary"
+    },
+    {
+      "name": "Test Cases",
+      "widget": "test-cases"
+    },
+    {
+      "name": "Behaviors",
+      "widget": "behaviors"
+    },
+    {
+      "name": "Packages",
+      "widget": "packages"
+    },
+    {
+      "name": "Timeline",
+      "widget": "timeline"
+    },
+    {
+      "name": "Suites",
+      "widget": "suites"
+    },
+    {
+      "name": "Graph",
+      "widget": "graph"
+    },
+    {
+      "duration": true
+    },
+    {
+      "name": "Categories",
+      "widget": "categories",
+      "widgets": [
+        {
+          "name": "Packages",
+          "widget": "packages"
+        },
+        {
+          "name": "Behaviors",
+          "widget": "behaviors"
+        },
+        {
+          "name": "Timeline",
+          "widget": "timeline"
+        },
+        {
+          "name": "Statuses",
+          "widget": "statuses"
+        },
+        {
+          "name": "History",
+          "widget": "history"
+        }
+      ]
+    },
+    {
+      "name": "Severity",
+      "widget": "severity"
+    },
+    {
+      "name": "Status",
+      "widget": "status"
+    },
+    {
+      "name": "Attachments",
+      "widget": "attachments"
+    },
+    {
+      "name": "Links",
+      "widget": "links"
+    },
+    {
+      "name": "Flaky Tests",
+      "widget": "flaky"
+    },
+    {
+      "name": "Parameters",
+      "widget": "parameters"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+INFO     root:sge_functions2.py:116 Terminate SGE session
+INFO     root:sge_functions2.py:90 Close SGE connection
+INFO     root:sge_functions2.py:44 Trying to Connect with SGE
+INFO     root:sge_functions2.py:193 Validate SGE connection
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'IHDR' 16 13
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'pHYs' 41 9
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'tIME' 62 7
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:738 b'tIME' 62 7 (unknown)
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'IDAT' 81 8192
+INFO     root:sge_functions2.py:184 Write: 12
+INFO     root:sge_functions2.py:189 Waiting 1 seconds to continue
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'IHDR' 16 13
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'pHYs' 41 9
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'tIME' 62 7
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:738 b'tIME' 62 7 (unknown)
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'IDAT' 81 8192
+INFO     root:sge_functions2.py:156 Press Enter
+INFO     root:sge_functions2.py:184 Write: 2
+INFO     root:sge_functions2.py:156 Press Enter
+INFO     root:sge_functions2.py:184 Write: 2
+INFO     root:sge_functions2.py:156 Press Enter
+INFO     root:sge_functions2.py:184 Write: 1
+INFO     root:sge_functions2.py:156 Press Enter
+INFO     root:sge_functions2.py:184 Write: c
+INFO     root:sge_functions2.py:184 Write: 31
+INFO     root:sge_functions2.py:156 Press Enter
+INFO     root:sge_functions2.py:184 Write: 1000
+INFO     root:sge_functions2.py:156 Press Enter
+INFO     root:sge_functions2.py:184 Write: 01
+INFO     root:sge_functions2.py:156 Press Enter
+INFO     root:sge_functions2.py:189 Waiting 5 seconds to continue
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'IHDR' 16 13
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'sRGB' 41 1
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'gAMA' 54 4
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'pHYs' 70 9
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'tEXt' 91 18
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'IDAT' 121 409
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'IHDR' 16 13
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'sRGB' 41 1
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'gAMA' 54 4
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'pHYs' 70 9
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'tEXt' 91 18
+DEBUG    PIL.PngImagePlugin:PngImagePlugin.py:202 STREAM b'IDAT' 121 409
+INFO     root:sge_functions2.py:116 Terminate SGE session
+INFO     root:sge_functions2.py:90 Close SGE connection
+INFO     root:sge_functions2.py:122 Move files/images to Report Directory
+INFO     root:sge_functions2.py:116 Terminate SGE session
+INFO     root:sge_functions2.py:90 Close SGE connection

@@ -1,0 +1,4 @@
+INFO     root:sge_functions2.py:44 Trying to Connect with SGE
+INFO     root:sge_functions2.py:193 Validate SGE connection
+INFO     root:sge_functions2.py:189 Waiting 1 seconds to continue
+INFO     root:sge_functions2.py:122 Move files/images to Report Directory

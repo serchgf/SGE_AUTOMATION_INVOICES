@@ -1,0 +1,9 @@
+{
+  "invoice_01": {
+    "supplier": "INVOICE 1",
+    "numero_cuenta": "15555555"
+  },
+    "invoice_02": {
+    "supplier": "INVOICE 2"
+  }
+}
